@@ -1,0 +1,3 @@
+allowBuilds:
+  @lxcshay.sh/tailwindcss-theme-kit: true
+minimumReleaseAge: 0

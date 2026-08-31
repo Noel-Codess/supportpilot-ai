@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+.aws/
+
+# test and build artifacts
+coverage/
+dist/
+*.tsbuildinfo
+
+# logs and temporary files
+*.log
+npm-debug.log*
+.tmp/
+tmp/
+
+# editor and operating system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
