@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerId": "mock-customer-001",
+    "status": "delivered",
+    "estimatedDeliveryDate": "2026-10-04"
+  },
+  {
+    "id": "ORD-1002",
+    "customerId": "mock-customer-001",
+    "status": "in_transit",
+    "estimatedDeliveryDate": "2026-10-13"
+  },
+  {
+    "id": "ORD-1003",
+    "customerId": "mock-customer-001",
+    "status": "processing",
+    "estimatedDeliveryDate": "2026-10-16"
+  }
+]

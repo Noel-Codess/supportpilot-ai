@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerId": "mock-customer-001",
+    "status": "delivered",
+    "estimatedDeliveryDate": "2026-10-04",
+    "carrier": "Northstar Parcel",
+    "items": [{ "name": "Everyday Backpack", "quantity": 1 }]
+  },
+  {
+    "id": "ORD-1002",
+    "customerId": "mock-customer-001",
+    "status": "in_transit",
+    "estimatedDeliveryDate": "2026-10-13",
+    "carrier": "Northstar Parcel",
+    "items": [{ "name": "Insulated Bottle", "quantity": 2 }]
+  },
+  {
+    "id": "ORD-1003",
+    "customerId": "mock-customer-001",
+    "status": "processing",
+    "estimatedDeliveryDate": "2026-10-16",
+    "carrier": null,
+    "items": [{ "name": "Travel Organizer", "quantity": 1 }]
+  }
+]
